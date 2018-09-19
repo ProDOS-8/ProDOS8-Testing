@@ -1,0 +1,12 @@
+.DS_Store
+*.bak
+*~
+*.exe
+*.msi
+*.zip
+*.bin
+*.7z
+*.tar.gz
+*.tar.bz2
+.project
+
